@@ -1,0 +1,4 @@
+# current dir is in my case used as mounted registry dir
+# so ignore content created by registry/proxy itself
+/docker/
+scheduler-state.json
